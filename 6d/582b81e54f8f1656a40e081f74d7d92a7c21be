@@ -1,0 +1,141 @@
+"Face Book/UserDetailViewController.swift"
+  s_2bcad2f35baccd::t_82f4146dfee291 1-255
+  s_2bcad2f35baccd::t_7babed98919bf2 256-257
+"Face Book/UserCell.swift"
+  s_2b7ed38441f4ee::t_eeecf488dd96b1 114,125-126
+  s_2bcad2f35baccd::t_0afaae4c806130 112
+  s_2b7ed38441f4ee::t_15134062629e85 115-123
+  s_2bcad2f35baccd::t_7f9926e3c6fbe3 109-111
+  s_2b7ed38441f4ee::t_15dd957c9b82b4 124
+  s_2b7ed38441f4ee::t_b02d2a38778fa2 127-129
+"Face Book/SimplifiedUser.swift"
+  s_2bcad2f35baccd::t_376ad916e0c075 22,28,47,53,56,59-69
+  s_2bcad2f35baccd::t_f0bd730a57f53b 19-21
+  s_2bcad2f35baccd::t_c73c5a6207bad6 23-27
+  s_2bcad2f35baccd::t_920cab3f34fa18 29-31,44-46
+  s_2bcad2f35baccd::t_266fee0351663b 48-52
+  s_2bcad2f35baccd::t_35af91bb83b83f 54-55
+  s_2bcad2f35baccd::t_40cf1c36f6f615 57-58
+  s_2bcad2f35baccd::t_1539a6227433ce 70
+"Face Book/UserDetail.swift"
+  s_2bcad2f35baccd::t_1290ffdf0403ed 1-30
+"Face Book/UserAPI.swift"
+  s_401a7660275899::t_77c9412e561b0d 8-31,39-40,42-48,50,59-80
+  s_c7bb74931a71ac::t_54b0be4e613fe5 32-38,41,49,51-58
+  s_401a7660275899::t_a086b988ea5ea3 5-7
+"Face Book/ViewController.swift"
+  s_cc6b5770ae63dd::t_517282e7c6f8bb 10,12-13,20-22,56-59,61-62,80-85,140-158,161-162
+  s_401a7660275899::t_7c51e881b5250e 14
+  s_c7bb74931a71ac::t_c88a3a41ff9d87 88,91,108-132
+  s_167e663f974cf5::t_9e99e7b5d28ee1 159-160
+  s_c7bb74931a71ac::t_a8e94698b1da78 50,198,260,274,284-289
+  s_2b7ed38441f4ee::t_9570876ec2c319 49
+  s_5b56a8413740ae::t_0ba42b82efaefe 207
+  s_167e663f974cf5::t_a05b26e8d17c27 60
+  s_c7bb74931a71ac::t_71bb425171aa3f 136-139
+  s_c7bb74931a71ac::t_a9f0830acee5c6 211-215
+  s_401a7660275899::t_1c8d03864c6be2 219,238-240
+  s_c7bb74931a71ac::t_1d88b5142e343a 104,296
+  s_c7bb74931a71ac::t_692905f1f002b7 203
+  s_15736fb3a3fd8b::t_e39b35ab1e0b2d 220-222
+  s_c7bb74931a71ac::t_85952e20174696 16
+  s_882400badf558c::t_7de686d674c906 40
+  s_2b7ed38441f4ee::t_34c8864a5d75cf 223-235
+  s_c7bb74931a71ac::t_5eb1278351e484 189-197,283
+  s_c7bb74931a71ac::t_32750cf07329e4 277
+  s_5b56a8413740ae::t_2541ce385ebf82 28,32-38
+  s_15736fb3a3fd8b::t_a9215e5a23dfb8 19
+  s_5b56a8413740ae::t_e8dd770fb973dc 64-75,79,92
+  s_2bcad2f35baccd::t_9af5ea0aa89790 51,93,133,165-179,199-200,261,275,290
+  s_882400badf558c::t_afe653b43a9982 183-188,201,206,208-210,216-217,236-237,241-251,293
+  s_c7bb74931a71ac::t_19db7eb8f711c3 105-107,134
+  s_cc6b5770ae63dd::t_ac15a492cad438 11
+  s_5b56a8413740ae::t_33c6cc21907d4a 29-31
+  s_2b7ed38441f4ee::t_f8b67590af88f9 46-48
+  s_2bcad2f35baccd::t_373bb8272d4d06 52-54
+  s_5b56a8413740ae::t_ed9df211316bef 78
+  s_c7bb74931a71ac::t_daea2274294423 89-90
+  s_c7bb74931a71ac::t_c39cb11b5601a7 135
+  s_c7bb74931a71ac::t_5b64d6dc7298b5 278-282
+  s_c7bb74931a71ac::t_6333ca2415e008 297
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6d582b81e54f8f1656a40e081f74d7d92a7c21be",
+  "prompts": {},
+  "sessions": {
+    "s_15736fb3a3fd8b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6530a352-764d-4540-b665-f6202abb2e2f",
+        "model": "claude-haiku-5-5"
+      },
+      "human_author": "Nicholas Lim <nic.lim@foodpanda.com>"
+    },
+    "s_167e663f974cf5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "0b766831-434e-4373-b856-8675e69e299d",
+        "model": "claude-haiku-5-5"
+      },
+      "human_author": "Nicholas Lim <nic.lim@foodpanda.com>"
+    },
+    "s_2b7ed38441f4ee": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5cbe301e-3b0e-470c-a238-48e3151f519e",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Nicholas Lim <nic.lim@foodpanda.com>"
+    },
+    "s_2bcad2f35baccd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "53d4a9bb-69f0-436b-8c28-e7c219174ae6",
+        "model": "claude-haiku-5-5"
+      },
+      "human_author": "Nicholas Lim <nic.lim@foodpanda.com>"
+    },
+    "s_401a7660275899": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "804b2a33-a2c9-4a82-80d0-5828b50d4ec5",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Nicholas Lim <nic.lim@foodpanda.com>"
+    },
+    "s_5b56a8413740ae": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "08d4e4db-9fbc-4bf1-9e5b-9fce1bf01c47",
+        "model": "claude-haiku-5-5"
+      },
+      "human_author": "Nicholas Lim <nic.lim@foodpanda.com>"
+    },
+    "s_882400badf558c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "17c6de1e-3708-4cd4-ab24-b4302110cff1",
+        "model": "claude-haiku-5-5"
+      },
+      "human_author": "Nicholas Lim <nic.lim@foodpanda.com>"
+    },
+    "s_c7bb74931a71ac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c18e36c2-49cd-4627-b1eb-7a402d40725d",
+        "model": "claude-sonnet-5-5"
+      },
+      "human_author": "Nicholas Lim <nic.lim@foodpanda.com>"
+    },
+    "s_cc6b5770ae63dd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "691cb5c4-0c5e-4733-bb16-b90d14df8523",
+        "model": "unknown"
+      },
+      "human_author": "Nicholas Lim <nic.lim@foodpanda.com>"
+    }
+  }
+}
