@@ -114,10 +114,12 @@ class UserCell: UITableViewCell {
         imageTask = Task { [weak self] in
             do {
                 let (data, _) = try await URLSession.shared.data(from: url)
-                guard let image = UIImage(data: data), !Task.isCancelled else {
-                    return
-                }
-
+                let image = await Task.detached {
+                    UIImage(data: data)?.preparingThumbnail(
+                        of: CGSize(width: 100, height: 100)
+                    )
+                }.value
+                guard let image, !Task.isCancelled else { return }
                 self?.profileImageView.image = image
             } catch {
                 return
