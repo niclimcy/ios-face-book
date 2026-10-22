@@ -1,0 +1,36 @@
+"Face Book.xcodeproj/project.pbxproj"
+  h_36695e5767c2ad 1-344
+"Face Book.xcodeproj/project.xcworkspace/contents.xcworkspacedata"
+  h_36695e5767c2ad 1-7
+"Face Book.xcodeproj/xcuserdata/nicholas.lim.xcuserdatad/xcschemes/xcschememanagement.plist"
+  h_36695e5767c2ad 1-14
+"Face Book/AppDelegate.swift"
+  h_36695e5767c2ad 1-36
+"Face Book/Assets.xcassets/AccentColor.colorset/Contents.json"
+  h_36695e5767c2ad 1-11
+"Face Book/Assets.xcassets/AppIcon.appiconset/Contents.json"
+  h_36695e5767c2ad 1-35
+"Face Book/Assets.xcassets/Contents.json"
+  h_36695e5767c2ad 1-6
+"Face Book/Base.lproj/LaunchScreen.storyboard"
+  h_36695e5767c2ad 1-25
+"Face Book/ContentView.swift"
+  h_36695e5767c2ad 1-24
+"Face Book/Info.plist"
+  h_36695e5767c2ad 1-23
+"Face Book/SceneDelegate.swift"
+  h_36695e5767c2ad 1-55
+"Face Book/ViewController.swift"
+  h_36695e5767c2ad 1-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c3e20fb8ddea0512e8ad1b478606474e2b3d9d29",
+  "prompts": {},
+  "humans": {
+    "h_36695e5767c2ad": {
+      "author": "Nicholas Lim <nic.lim@foodpanda.com>"
+    }
+  }
+}
