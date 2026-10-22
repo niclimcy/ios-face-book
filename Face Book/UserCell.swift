@@ -111,19 +111,17 @@ class UserCell: UITableViewCell {
 
         guard let url = user.faceImageURL else { return }
 
-        if let cached = AvatarImageLoader.cachedImage(for: url) {
-            profileImageView.image = cached
-            return
-        }
-
         imageTask = Task { [weak self] in
-            guard let image = await AvatarImageLoader.image(for: url),
-                !Task.isCancelled
-            else {
+            do {
+                let (data, _) = try await URLSession.shared.data(from: url)
+                guard let image = UIImage(data: data), !Task.isCancelled else {
+                    return
+                }
+
+                self?.profileImageView.image = image
+            } catch {
                 return
             }
-
-            self?.profileImageView.image = image
         }
     }
 
